@@ -5,5 +5,6 @@ public class HelloGit {
 
           
 		System.out.println("Hello Git jack ");
+		System.out.println("Author:Jack");
 	}
 }
