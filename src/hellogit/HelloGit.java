@@ -5,6 +5,6 @@ public class HelloGit {
 
 		System.out.println("Be my project from now on!!");
 		System.out.println("Hello Git abc ");
-		System.out.println("第2次修改！！！");
+		System.out.println("第3次修改！！！");
 	}
 }
