@@ -4,6 +4,6 @@ public class HelloGit {
 	public static void main(String[] args) {
 
 
-		System.out.println("Hello Git yyybbv ");
+		System.out.println("Hello Git yyyb2 ");
 	}
 }
