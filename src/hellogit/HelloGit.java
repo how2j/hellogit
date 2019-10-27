@@ -4,7 +4,7 @@ public class HelloGit {
 	public static void main(String[] args) {
 
 
-		System.out.println("Hello Git abc 1111222 ");
-		System.out.println("aaabbb");
+		System.out.println("Hello Git ");
+		
 	}
 }
