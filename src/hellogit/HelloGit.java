@@ -4,6 +4,6 @@ public class HelloGit {
 	public static void main(String[] args) {
 
 
-		System.out.println("Hello Git DF做的改动 ");
+		System.out.println("Hello Git the DF's change");
 	}
 }
