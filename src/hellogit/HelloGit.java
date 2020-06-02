@@ -4,6 +4,6 @@ public class HelloGit {
 	public static void main(String[] args) {
 
 
-		System.out.println("Hello Git yyy xxx");
+		System.out.println("Hello Git yyy xxx 随便改改");
 	}
 }
