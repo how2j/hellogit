@@ -4,6 +4,6 @@ public class HelloGit {
 	public static void main(String[] args) {
 
 
-		System.out.println("Hello Git 尝试fork ");
+		System.out.println("Hello Git and 尝试fork ");
 	}
 }
