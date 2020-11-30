@@ -5,5 +5,6 @@ public class HelloGit {
 
 
 		System.out.println("Hello Git abc ");
+		System.out.println("为HelloGit.java文件增加一点修改！");
 	}
 }
