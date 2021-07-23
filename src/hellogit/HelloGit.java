@@ -4,6 +4,6 @@ public class HelloGit {
 	public static void main(String[] args) {
 
 
-		System.out.println("没错 我就是站长的爹");
+		System.out.println("娌￠敊!鎴戞槸绔欓暱鐨勭埞");
 	}
 }
