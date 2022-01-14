@@ -4,6 +4,6 @@ public class HelloGit {
 	public static void main(String[] args) {
 
 
-		System.out.println("Hello Git 李柯蒙 ");
+		System.out.println("你好世界 ");
 	}
 }
